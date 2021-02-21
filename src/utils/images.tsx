@@ -1,0 +1,18 @@
+export default{
+    splash: require("../../assets/images/splash.png"),
+    logo: require("../../assets/images/logo.png"),
+    appLogo: require("../../assets/images/app_logo.png"),
+    call: require("../../assets/images/call.png"),
+    chat: require("../../assets/images/chat.png"),
+    earning: require("../../assets/images/earning.png"),
+    astroQ: require("../../assets/images/AstroQ.png"),
+    flashOffer: require("../../assets/images/flash-offer.png"),
+    promontional: require("../../assets/images/promotional.png"),
+    report: require("../../assets/images/report.png"),
+    saveImportant: require("../../assets/images/save-important.png"),
+    support: require("../../assets/images/support.png"),
+    tutorial: require("../../assets/images/tutorial.png"),
+    updatePhone: require("../../assets/images/update-phone.png"),
+    waitList: require("../../assets/images/waitlist.png"),
+    attach: require("../../assets/images/attach.png"),
+}
